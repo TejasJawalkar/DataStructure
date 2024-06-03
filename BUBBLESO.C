@@ -1,3 +1,4 @@
+//stack using array implementation
 #include<stdio.h>
 #include<conio.h>
 #define SIZE 100
